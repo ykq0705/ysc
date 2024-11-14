@@ -1,1 +1,1 @@
-ysc-vod-live
+ysc-vod
