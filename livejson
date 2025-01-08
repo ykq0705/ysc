@@ -3,6 +3,8 @@
 "type": 0,
 "url": "https://aktv.top/live.txt",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},	
 {"name":"SW-流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"},
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
